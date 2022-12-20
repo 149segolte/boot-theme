@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Boot
+Description=A simple boot screen for my personal use
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/boot
+ScriptFile=/usr/share/plymouth/themes/boot/boot.script
